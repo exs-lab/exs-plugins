@@ -1,0 +1,4 @@
+[plugins.example]
+repo = "https://github.com/exs-lab/exs-plugin-example"
+description = "Hello World"
+author = "kipoha"
